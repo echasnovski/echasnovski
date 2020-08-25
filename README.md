@@ -10,8 +10,9 @@ My interests are:
 
 I have a personal website, where you can find out more about me and my public writings: [QuestionFlow](http://www.questionflow.org/).
 
-<p align="center">
-  <a href="https://github.com/echasnovski" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=echasnovski&title_color=008&text_color=555" alt="Evgeni's Stats" >
-  </a>
-</p>
+<a href="https://github.com/echasnovski/echasnovski">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echasnovski&theme=gruvbox&hide=css,html,markdown" />
+</a>
+<a href="https://github.com/echasnovski/echasnovski">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=echasnovski&show_icons=true&count_private=true&line_height=26&theme=gruvbox" />
+</a>
