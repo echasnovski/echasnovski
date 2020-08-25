@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**echasnovski/echasnovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Evgeni Chasnovski, formally trained applied mathematician who since 2013 has experience of working as data scientist, machine learning engineer, and R/Python developer.
 
-Here are some ideas to get you started:
+My interests are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Analyzing real world data and building/shipping all kinds of mathematical models.
+- R/Python open source development (have authored 6 CRAN R packages).
+- Vim/Neovim.
+
+I have a personal website, where you can find out more about me and my public writings: [QuestionFlow](http://www.questionflow.org/).
+
+<p align="center">
+  <a href="https://github.com/echasnovski" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=echasnovski&title_color=008&text_color=555" alt="Evgeni's Stats" >
+  </a>
+</p>
