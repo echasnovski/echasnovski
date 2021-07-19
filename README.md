@@ -6,7 +6,7 @@ My interests are:
 
 - Analyzing real world data and building/shipping all kinds of mathematical models.
 - R/Python open source development (have authored 6 CRAN R packages).
-- Vim/Neovim.
+- Vim/Neovim/Lua.
 
 I have a personal website, where you can find out more about me and my public writings: [QuestionFlow](http://www.questionflow.org/).
 
