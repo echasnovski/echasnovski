@@ -5,7 +5,7 @@ I am Evgeni Chasnovski, formally trained applied mathematician who since 2013 ha
 My interests are:
 
 - Analyzing real world data and building/shipping all kinds of mathematical models.
-- Vim/Neovim/Lua. I am the author of [mini.nvim](https://nvim-mini.org/mini.nvim) and [MiniMax](https://nvim-mini.org/MiniMax)
+- Neovim/Lua. I am the author of [mini.nvim](https://nvim-mini.org/mini.nvim) and [MiniMax](https://nvim-mini.org/MiniMax)
 - R/Python open source development (have authored 6 CRAN R packages).
 
 I have a personal website, where you can find out more about me and my public writings: [echasnovski.com](https://echasnovski.com/).
